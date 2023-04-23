@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Blind-Docking-qvina-w-DENV-NS2BNS3
+message: >-
+  Blind dock and molecular dynamics for Denv NS2BNS3
+  protease (PDB ID: 3u1i) please run these simulation with
+  jupyter or colab (Docking_qvina_w_MD_DENV_NS2BNS3.ipynb)
+  please cite our paper(unpublish) 
+type: software
+authors:
+  - given-names: Yeng-Tsng
+    family-names: Wang
+    email: c00jsw00@gmail.com
+    orcid: 'https://orcid.org/0000-0002-7575-4953'
+    affiliation: Kaohsiung Medical University College of Medicine
+repository: >-
+  https://github.com/c00jsw00/Blind-Docking-qvina-w-DENV-NS2BNS3
+abstract: >-
+  Blind dock and molecular dynamics for Denv NS2BNS3
+  protease (PDB ID: 3u1i)
+
+  please run these simulation with jupyter or colab
+  (Docking_qvina_w_MD_DENV_NS2BNS3.ipynb)
+
+  please cite our paper(unpublish) 
+keywords:
+  - Blind dock and molecular dynamics
+license: 0BSD
+version: beta
+date-released: '2023-04-24'
