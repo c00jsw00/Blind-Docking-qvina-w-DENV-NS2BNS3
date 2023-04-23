@@ -1,0 +1,13 @@
+receptor = rec.pdbqt
+
+center_x =  26.15
+center_y = -11.34
+center_z =  16.47
+
+size_x = 50
+size_y = 50
+size_z = 50
+
+num_modes = 20
+cpu = 2
+
